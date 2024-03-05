@@ -1,3 +1,4 @@
 <Response>
-<Say voice="woman">This is a recorded call. Enjoy!</Say>
+<Say voice="woman">Thanks for trying our documentation. Enjoy!</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
