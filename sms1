@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Message>
+        <Body>From phone {{from_number}} with message: {{message_body}}</Body>
+    </Message>
+</Response>
